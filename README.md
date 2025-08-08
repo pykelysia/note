@@ -4,6 +4,8 @@
 
 [Golang](./go_learn_note)
 
+[Python](./py_learn_note)
+
 [other](./other.md)
 
 #
